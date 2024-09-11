@@ -8,5 +8,5 @@ elif lastDigit < 6 and lastDigit !=0:
 	lastDigit = number % -10
 	print(f"Last digit of {number} is {lastDigit } and is less than 6 and not 0\n")
 else:
-	print(f"Last digit of {number} is {lastDigit } and is 0\n" )
+	print(f"Last digit of {number} is {lastDigit } and is 0\n")
 
